@@ -1,0 +1,3 @@
+
+
+function slotto:play/rng
